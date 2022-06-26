@@ -1,0 +1,63 @@
+.economic-news {
+  padding: 50px 0;
+}
+
+.economic-news-inner {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.economic-news-content {
+  width: 797px;
+  border-bottom: 1px solid #d2d2d2;
+}
+
+.economic-news-title {
+  margin-top: 30px;
+  margin-bottom: 20px;
+  width: 650px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 36px;
+  color: #000000;
+}
+
+.economic-news-img {
+  margin-bottom: 25px;
+}
+
+.economic-news-text {
+  margin-bottom: 25px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  color: #000000;
+}
+
+.economic-news-text-active {
+  margin-bottom: 50px;
+}
+
+.interest-title {
+  margin-top: 60px;
+  margin-bottom: 20px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  color: #000000;
+}
+
+.interest-list {
+  margin-bottom: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.interest-news-item {
+  padding: 20px 20px 20px 20px;
+}
